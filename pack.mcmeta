@@ -2,8 +2,8 @@
 	"pack": {
 		"description": "Your fate will be the same as everybody now",
 		"pack_format": 88,
-		"supported_formats": [18, 94],
-		"min_format": 18,
+		"supported_formats": [57, 94],
+		"min_format": 57,
 		"max_format": 94
 	}
 }
